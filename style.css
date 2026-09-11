@@ -1,0 +1,27 @@
+.prince-container {
+    width: 500px;
+    margin: 20px auto;
+}
+
+.prince-image {
+    width: 500px;
+}
+
+.prince-text {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: orange;
+    text-decoration: underline;
+}
+
+.red-text {
+    color: red;
+    font-weight: bold;
+}
